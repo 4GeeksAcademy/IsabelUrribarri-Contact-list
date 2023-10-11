@@ -1,3 +1,13 @@
 /* 
     General Styles
 */
+
+body {
+    background-color: #212529;
+    color: whitesmoke;
+}
+
+p {
+    padding: 0px;
+    margin: 0px;
+}
